@@ -1,4 +1,4 @@
 # Relecteurs obligatoires.
 # Ajouter un second relecteur (collègue) : avec la relecture CODEOWNERS exigée,
 # une PR ne peut pas être validée si le seul propriétaire listé en est l'auteur.
-*    @mdabo-palo-it
+*    @mdabo-palo-it @shenchiri-palo

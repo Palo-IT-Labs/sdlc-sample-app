@@ -8,7 +8,7 @@ class HelloControllerTests {
 
 	@Test
 	void greetsGivenName() {
-		assertThat(HelloController.greeting("Lamyaa")).isEqualTo("Bonjour Lamyaa");
+		assertThat(HelloController.greeting("Lamyaa")).isEqualTo("Bonsoir Lamyaa");
 	}
 
 	@Test

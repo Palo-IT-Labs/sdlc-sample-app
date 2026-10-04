@@ -1,0 +1,18 @@
+# Configuration SDLC du repo. Toutes les clés sont optionnelles.
+# Ici, la stack (java-maven) est détectée automatiquement grâce au pom.xml.
+
+stack: auto
+
+versions:
+  java: "21"
+
+team: "@mdabo-palo-it"
+
+# Identifiant fictif pour la démonstration
+servicenow-app: "APM-DEMO-001"
+
+declarations:
+  deployment-doc: "README.md#lancer-en-local"
+  architecture: "README.md"
+  on-call: "mdabo-palo-it"
+  runbook: ""

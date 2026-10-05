@@ -33,4 +33,4 @@ curl http://localhost:8080/actuator/health
 | 6 | PR qui casse un test (`HelloControllerTests`) | Contrôle `sdlc / build-test` rouge, merge bloqué | 04 |
 | 7 | Pousser un secret de test | Push refusé par la push protection | 05 |
 | 8 | `scripts/check.sh Palo-IT-Labs/sdlc-sample-app` (depuis le blueprint) | Points L1 du socle à OK | Tous |
-Scénario de relecture
+Review scenario"
